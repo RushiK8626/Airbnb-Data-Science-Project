@@ -197,8 +197,8 @@ class ModelCache:
             candidate_files.insert(0, 'best_ttm_avg_rate_model.json')
             candidate_files.insert(1, 'best_ttm_avg_rate_model.pkl')
         elif model_name == 'best_ttm_revenue_model':
-            candidate_files.insert(0, 'best_ttm_revenue_model.json')
-            candidate_files.insert(1, 'best_ttm_revenue_model.pkl')
+            candidate_files.insert(0, 'best_ttm_revenue_model.pkl')
+            candidate_files.insert(1, 'best_ttm_revenue_model.json')
 
         seen = set()
         for file_name in candidate_files:

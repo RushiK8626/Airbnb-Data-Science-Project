@@ -4,6 +4,7 @@ __pycache__/
 .streamlit/
 streamlit_venv/
 models/*.pkl
+Notebooks/
 !models/*features.txt
 !models/model_registry.json
 !models/*metrics.csv

@@ -17,19 +17,19 @@
         ]
       },
       "metrics": {
-        "test_rmse": 0.34394548133771125,
-        "test_mae": 0.2570102373400729,
-        "test_r2": 0.8152978291772165,
-        "train_r2": 0.935554529488509,
-        "train_rmse": 0.2070709343647446,
-        "train_mae": 0.1524460845382332,
-        "overfit_gap": 0.12025670031129254,
+        "test_rmse": 0.3445481015141627,
+        "test_mae": 0.2576627715890107,
+        "test_r2": 0.8244189447384622,
+        "train_r2": 0.9343180356404248,
+        "train_rmse": 0.20913990202534388,
+        "train_mae": 0.15387656049452325,
+        "overfit_gap": 0.10989909090196259,
         "target_transform": "log1p",
         "target_column": "ttm_avg_rate"
       },
       "model_name": "Stacking Ensemble",
       "feature_count": 60,
-      "training_date": "2026-04-30T12:00:00.217721"
+      "training_date": "2026-05-11T18:41:02.412857"
     },
     "best_ttm_revenue": {
       "model_file": "best_ttm_revenue_model.json",
@@ -48,20 +48,20 @@
         ]
       },
       "metrics": {
-        "test_rmse": 0.5289150894628819,
-        "test_mae": 0.411451797403243,
-        "test_r2": 0.7177593014806469,
-        "train_r2": 0.9157572771033222,
-        "train_rmse": 0.2902459696476038,
-        "train_mae": 0.21902698000659415,
-        "overfit_gap": 0.1979979756226753,
+        "test_rmse": 0.5230303463329733,
+        "test_mae": 0.40788351850903387,
+        "test_r2": 0.732119590394837,
+        "train_r2": 0.9132295187379946,
+        "train_rmse": 0.2945682964305652,
+        "train_mae": 0.2221185935976499,
+        "overfit_gap": 0.18110992834315764,
         "target_transform": "log1p",
         "target_column": "ttm_revenue"
       },
       "model_name": "XGBoost Regressor",
       "source": "XGBRegressor",
       "feature_count": 60,
-      "training_date": "2026-04-30T11:32:15.435766"
+      "training_date": "2026-05-11T18:52:11.647586"
     },
     "best_ttm_avg_revenue": {
       "model_file": "best_ttm_revenue_model.pkl",

@@ -2,11 +2,11 @@
 # Model: Stacking Ensemble
 # Format: joblib pickle
 # Selection criteria: test_r2 >= 0.75, then low RMSE/MAE, then low overfit gap
-# Test RMSE (log scale): 0.3439
-# Test MAE (log scale): 0.2570
-# Test R2: 0.8153
-# Train R2: 0.9356
-# Overfit Gap: 0.1203
+# Test RMSE (log scale): 0.3445
+# Test MAE (log scale): 0.2577
+# Test R2: 0.8244
+# Train R2: 0.9343
+# Overfit Gap: 0.1099
 
 1. photos_count
 2. superhost

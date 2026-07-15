@@ -1,82 +1,82 @@
 [
   {
     "source":"XGBoost Regressor",
-    "train_r2":0.9157572771,
-    "test_r2":0.7177593015,
-    "train_rmse":0.2902459696,
-    "test_rmse":0.5289150895,
-    "train_mae":0.21902698,
-    "test_mae":0.4114517974,
-    "overfit_gap":0.1979979756
+    "train_r2":0.9132295187,
+    "test_r2":0.7321195904,
+    "train_rmse":0.2945682964,
+    "test_rmse":0.5230303463,
+    "train_mae":0.2221185936,
+    "test_mae":0.4078835185,
+    "overfit_gap":0.1811099283
   },
   {
     "source":"Stacking Ensemble",
-    "train_r2":0.8318346114,
-    "test_r2":0.6817284437,
-    "train_rmse":0.4100797345,
-    "test_rmse":0.5616620128,
-    "train_mae":0.3177477833,
-    "test_mae":0.4377464955,
-    "overfit_gap":0.1501061677
+    "train_r2":0.8322765538,
+    "test_r2":0.6987943472,
+    "train_rmse":0.4095405306,
+    "test_rmse":0.5546103492,
+    "train_mae":0.3174184877,
+    "test_mae":0.4340611342,
+    "overfit_gap":0.1334822066
   },
   {
     "source":"Random Forest Regressor",
-    "train_r2":0.939734038,
-    "test_r2":0.6694834555,
-    "train_rmse":0.2454912667,
-    "test_rmse":0.5723645664,
-    "train_mae":0.1849573333,
-    "test_mae":0.4444685611,
-    "overfit_gap":0.2702505825
+    "train_r2":0.9397891767,
+    "test_r2":0.686709883,
+    "train_rmse":0.2453789382,
+    "test_rmse":0.5656265124,
+    "train_mae":0.1847131349,
+    "test_mae":0.4423853306,
+    "overfit_gap":0.2530792937
   },
   {
     "source":"Neural Network Regressor",
-    "train_r2":0.7342138576,
-    "test_r2":0.6375000767,
-    "train_rmse":0.5155445106,
-    "test_rmse":0.599418438,
-    "train_mae":0.405040738,
-    "test_mae":0.4717628569,
-    "overfit_gap":0.0967137809
-  },
-  {
-    "source":"Ridge Regression",
-    "train_r2":0.588539313,
-    "test_r2":0.5821082436,
-    "train_rmse":0.6414520146,
-    "test_rmse":0.6435881515,
-    "train_mae":0.5082738899,
-    "test_mae":0.5098999874,
-    "overfit_gap":0.0064310694
-  },
-  {
-    "source":"Linear Regression",
-    "train_r2":0.5885393137,
-    "test_r2":0.5821079474,
-    "train_rmse":0.641452014,
-    "test_rmse":0.6435883796,
-    "train_mae":0.5082732897,
-    "test_mae":0.5098993093,
-    "overfit_gap":0.0064313664
+    "train_r2":0.736029518,
+    "test_r2":0.648368324,
+    "train_rmse":0.5137805777,
+    "test_rmse":0.5992394622,
+    "train_mae":0.4026575391,
+    "test_mae":0.4702457583,
+    "overfit_gap":0.0876611939
   },
   {
     "source":"Lasso Regression",
-    "train_r2":0.5885061574,
-    "test_r2":0.5820425642,
-    "train_rmse":0.6414778582,
-    "test_rmse":0.6436387254,
-    "train_mae":0.5082953214,
-    "test_mae":0.5100265206,
-    "overfit_gap":0.0064635932
+    "train_r2":0.5885790953,
+    "test_r2":0.5940046716,
+    "train_rmse":0.6414210042,
+    "test_rmse":0.6438977811,
+    "train_mae":0.5080671938,
+    "test_mae":0.5118276919,
+    "overfit_gap":-0.0054255763
+  },
+  {
+    "source":"Ridge Regression",
+    "train_r2":0.5886125934,
+    "test_r2":0.5938870906,
+    "train_rmse":0.6413948913,
+    "test_rmse":0.6439910145,
+    "train_mae":0.5080058023,
+    "test_mae":0.5119132404,
+    "overfit_gap":-0.0052744972
+  },
+  {
+    "source":"Linear Regression",
+    "train_r2":0.5886125943,
+    "test_r2":0.5938866654,
+    "train_rmse":0.6413948906,
+    "test_rmse":0.6439913517,
+    "train_mae":0.5080049779,
+    "test_mae":0.5119130291,
+    "overfit_gap":-0.0052740711
   },
   {
     "source":"Decision Tree Regressor",
-    "train_r2":0.728906454,
-    "test_r2":0.5236637529,
-    "train_rmse":0.5206664441,
-    "test_rmse":0.6871205754,
-    "train_mae":0.4067289475,
-    "test_mae":0.5343410434,
-    "overfit_gap":0.2052427011
+    "train_r2":0.71920965,
+    "test_r2":0.5479641026,
+    "train_rmse":0.5298965465,
+    "test_rmse":0.6794271114,
+    "train_mae":0.4110480551,
+    "test_mae":0.5308511205,
+    "overfit_gap":0.1712455474
   }
 ]

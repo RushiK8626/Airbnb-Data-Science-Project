@@ -2,8 +2,8 @@
 # Model: XGBoost Regressor
 # Format: XGBoost JSON (native)
 # Selection criteria: test_r2 >= 0.75, then low RMSE/MAE, then low overfit gap
-# Test R2: 0.7178
-# Test RMSE: 0.5289
+# Test R2: 0.7321
+# Test RMSE: 0.5230
 
 1. photos_count
 2. superhost
